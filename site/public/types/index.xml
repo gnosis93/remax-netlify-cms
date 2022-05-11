@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Types on RE MAX Interior Designer</title>
+    <link>https://frabjous-pastelito-f460a2.netlify.app/types/</link>
+    <description>Recent content in Types on RE MAX Interior Designer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 19 Apr 2022 07:13:10 +0000</lastBuildDate><atom:link href="https://frabjous-pastelito-f460a2.netlify.app/types/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Our Projects</title>
+      <link>https://frabjous-pastelito-f460a2.netlify.app/types/projects/</link>
+      <pubDate>Tue, 19 Apr 2022 06:57:51 +0000</pubDate>
+      
+      <guid>https://frabjous-pastelito-f460a2.netlify.app/types/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Our Design Plans</title>
+      <link>https://frabjous-pastelito-f460a2.netlify.app/types/plans/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://frabjous-pastelito-f460a2.netlify.app/types/plans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>designplans</title>
+      <link>https://frabjous-pastelito-f460a2.netlify.app/types/designplans/</link>
+      <pubDate>Tue, 19 Apr 2022 07:13:10 +0000</pubDate>
+      
+      <guid>https://frabjous-pastelito-f460a2.netlify.app/types/designplans/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>brands</title>
+      <link>https://frabjous-pastelito-f460a2.netlify.app/types/brands/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://frabjous-pastelito-f460a2.netlify.app/types/brands/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

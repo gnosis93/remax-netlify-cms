@@ -1,0 +1,8 @@
++++
+date = 2022-02-12T22:51:41Z
+description = "You can see various built in furniture design plans with measurements. No matter if its a kitchen, a built in wardrobe or a custom office desk, tv panel, you name it!\n\nWe design an install custom furnitures to your home on reasonable price and time!\n\nJust imagine your home with our built in furniture! A stylish design furniture, thats built on based on your personal preferences, your furniture is the material representation of your logic. Everything is there, where it should be.\n\nTell us your requirements, and we design the built in furniture, kitchen, tv panel or office desk to your home and, we also design complete working places, offices, like: catalog shelves, conference rooms, client meeting area, and receptions.\n\nContact us by filling the contact form, or call us: 0900489999"
+gallery = ["/uploads/screen-shot-2565-01-26-at-01-47-30.png", "/uploads/screen-shot-2565-01-26-at-01-47-13.png", "/uploads/screen-shot-2565-01-26-at-01-44-45.png", "/uploads/screen-shot-2565-01-26-at-01-41-36.png", "/uploads/screen-shot-2565-01-26-at-01-40-22.png", "/uploads/screen-shot-2565-01-26-at-01-32-30.png", "/uploads/screen-shot-2565-01-26-at-01-30-54.png", "/uploads/screen-shot-2565-01-26-at-01-23-12.png", "/uploads/screen-shot-2565-01-26-at-01-23-03.png", "/uploads/screen-shot-2565-01-26-at-01-20-44.png", "/uploads/screen-shot-2565-01-26-at-01-14-57.png", "/uploads/screen-shot-2565-01-26-at-01-13-41.png", "/uploads/screen-shot-2565-01-26-at-01-10-38.png", "/uploads/screen-shot-2565-01-25-at-23-10-37.png", "/uploads/screen-shot-2565-01-25-at-23-04-20.png"]
+title = "Custom Furniture in Pattaya"
+types = "designplans"
+
++++

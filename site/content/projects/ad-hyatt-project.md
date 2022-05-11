@@ -1,0 +1,7 @@
++++
+description = "<p>Ad Hyatt project, a top floor studio condo in the heart of Wongamat, with a breathtaking sea view. In this project the core concept was the sea view, and the harmony of the colors we use. This condo is definitely a place, where you want to spend plenty of time on the balcony, where you want to cook you meal by watching the sea view, so we decided to remove the washing machine from the balcony and installed hard wood flooring with a comfortable garden set. </p><p>Nowdays its a must to have a small office corner, so we installed a modern style decent size office table, and as the kitchen originally had a small table section, we upgraded this area to a coffee corner, and installed a separate dining area with a romantic environment. </p><p>As for the window treatment, we installed sunshades in the kitchen window, and a dark curtain to the balcony door. </p><p>To make this condo more elegant, we used abstract art and plenty of small ceramics and colorful plants.</p>"
+gallery = ["/uploads/img_2409-edit.jpg", "/uploads/img_2428-edit.jpg", "/uploads/img_4923.jpg", "/uploads/img_2412-edit.jpg", "/uploads/img_2437-edit.jpg", "/uploads/img_4897.jpg", "/uploads/img_2454-edit.jpg", "/uploads/img_2449.jpg", "/uploads/img_2472.jpg", "/uploads/img_2448-edit.jpg", "/uploads/img_2457-edit.jpg", "/uploads/img_2426-edit.jpg"]
+title = "Ad Hyatt Project"
+types = "projects"
+date = "2021-12-03"
++++

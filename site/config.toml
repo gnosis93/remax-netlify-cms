@@ -1,9 +1,57 @@
-baseurl = "/"
-languageCode = "en-us"
-languageLang = "en"
-title = "Homepage"
+baseURL = "/"
+enableRobotsTXT = true
+languageCode = "en"
+assetDir = "static"
+logo = "/uploads/remaxballoon.png"
+theme = ["github.com/gnosis93/PattayaCondoDesignHugoTheme"]
+title = "RE MAX Interior Designer"
 
-# RSS, categories and tags disabled for an easy start
-# See configuration options for more details: 
-# https://gohugo.io/getting-started/configuration/#toml-configuration
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+[module]
+    [[module.mounts]]
+    source = 'static/uploads'
+    target = 'assets/uploads'
+
+[params]
+    sitename = ""
+    description = ""
+    ogimage = ""
+    enable_about = false
+    enable_projects = true
+    enable_plans = true
+    enable_brands = false
+    enable_form = false
+
+# [[menu.main]]
+# identifier = "Contact"
+# name = "Contact"
+# pre = "far fa-envelope-open"
+# url = "/#contact"
+# weight = 5
+# [[menu.main]]
+# identifier = "Brands We Like"
+# name = "Brands We Like"
+# pre = "far fa-copyright"
+# url = "/#brands"
+# weight = 4
+[[menu.main]]
+identifier = "Design Plans"
+name = "Design-Plans"
+pre = "fas fa-pencil-ruler"
+url = "/#design-plans"
+weight = 3
+[[menu.main]]
+identifier = "Projects"
+name = "Projects"
+pre = "fas fa-home"
+url = "/#projects"
+weight = 2
+# [[menu.main]]
+# identifier = "About Us"
+# name = "About Us"
+# pre = "fas fa-user"
+# url = "/#about-us"
+# weight = 1
+[[module.imports]]
+path = "github.com/gnosis93/PattayaCondoDesignHugoTheme"
+[taxonomies]
+type = "types"

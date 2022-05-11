@@ -1,0 +1,7 @@
++++
+description = "<p>When it comes to renovation, the first step always to figure out, how can we fix the obvious mistakes, what the developer made. In this case, actually it's not a mistake, it's just an old habit. Long time ago, the aircon systems were so weak, the tried to minimalise the space, with a very low ceiling, which makes the condo looks small, much smaller than it really is. The second big mistake is the bathroom size. When I first entered the bathroom, I felt it so small, the toilet and sink was okay, but the shower was definitely smaller than it must be. </p><p>During the renovation process, we substantially increased the bathroom size by moving a wall 80 cm, as well as changed the bathroom ceiling which gives lot of space and luxury feeling. </p><p>We installed a completely new kitchen, changed the whole electric system, installed smart lighting solutions, ceiling lights, and a decent size Tv panel with a 55\" smart Tv.</p><p>These days are all about working remotely, so we decided to install an office corner, and installed plenty of art to give a luxury yet homy felling.</p><p>The balcony offers great views to the palm trees, so we decided to add hard wood flooring to emphasise the natural elements of the condo.</p>"
+gallery = ["/uploads/img_4361-pano-edit.jpg", "/uploads/img_4328-pano-edit.jpg", "/uploads/img_4374-edit.jpg", "/uploads/img_1605-edit.jpg", "/uploads/img_1617-edit.jpg", "/uploads/img_1627-edit.jpg"]
+title = "View Talay Project 1"
+types = "projects"
+date = "2021-12-05"
++++
